@@ -84,7 +84,7 @@ README.md
 .gitignore
 ---
 
-## ⚙ Technologies
+##  Technologies
 
 - Revit API
 - Dynamo for Revit
