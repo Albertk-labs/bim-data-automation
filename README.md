@@ -73,12 +73,16 @@ Updates Revit walls and assemblies with section numbers and reinforcement coeffi
 ---
 
 ##  Repository Structure
-/scripts
-├── FilterAndTagWalls.py
-├── UpdateWallsFromExcel.py
+/bim-data-automation
+├── /scripts
+│   ├── FilterAndTagWalls.py
+│   ├── UpdateWallsFromExcel.py
+│
+├── /sample_data
+│   └── sample_wall_data.xlsx
+│
+└── README.md
 
-/sample_data
-├── example_input.xlsx
 
 README.md
 .gitignore
